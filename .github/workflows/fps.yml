@@ -1,0 +1,14 @@
+processor:
+  name: "Intel® Core™ i9-14900K"
+  cache: "36M"
+  max_turbo_frequency: "6.00 GHz"
+  cores:
+    performance_cores: 8
+    efficient_cores: 16
+  threads: 32
+  base_power: "125 W"
+  max_turbo_power: "253 W"
+  memory_support:
+    max_size: "192 GB"
+    types: ["DDR5 5600 MT/s", "DDR4 3200 MT/s"]
+  graphics: "Intel® UHD Graphics 770"
